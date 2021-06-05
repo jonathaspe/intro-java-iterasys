@@ -13,6 +13,7 @@ public class Medidas {
 
     //3.2 - Métodos e funções (o que a coisa sabe fazer)
     public static void main(String[] args){
+        System.out.println("Bom dia!");
         System.out.println("Cálculo da área do tapete:");
 
         //Cálculo de área, exemplo: tamanho do tapete ou do piso
